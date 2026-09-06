@@ -1,0 +1,6 @@
+{
+  "name": "Bellihan Toss Plumbing",
+  "description": "Dependable residential and commercial plumbing services with fair pricing, quality workmanship, and fast response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
